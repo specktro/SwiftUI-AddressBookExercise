@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5059F87A2CD31400003B4CDA /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 5059F8792CD31400003B4CDA /* README.md */; };
 		F23A6DCA25F0281D00494ABD /* AddressBookWithPropertyWrappersApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F23A6DC925F0281D00494ABD /* AddressBookWithPropertyWrappersApp.swift */; };
 		F23A6DCC25F0281D00494ABD /* AddressBookView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F23A6DCB25F0281D00494ABD /* AddressBookView.swift */; };
 		F23A6DCE25F0282000494ABD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F23A6DCD25F0282000494ABD /* Assets.xcassets */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5059F8792CD31400003B4CDA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 		F23A6DC625F0281D00494ABD /* AddressBookWithPropertyWrappers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AddressBookWithPropertyWrappers.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F23A6DC925F0281D00494ABD /* AddressBookWithPropertyWrappersApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddressBookWithPropertyWrappersApp.swift; sourceTree = "<group>"; };
 		F23A6DCB25F0281D00494ABD /* AddressBookView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddressBookView.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 		F23A6DC825F0281D00494ABD /* AddressBookWithPropertyWrappers */ = {
 			isa = PBXGroup;
 			children = (
+				5059F8792CD31400003B4CDA /* README.md */,
 				F23A6DC925F0281D00494ABD /* AddressBookWithPropertyWrappersApp.swift */,
 				F23A6DF625F02E7F00494ABD /* Views */,
 				F23A6DE625F0295400494ABD /* ViewModel */,
@@ -162,6 +165,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5059F87A2CD31400003B4CDA /* README.md in Resources */,
 				F23A6DD125F0282000494ABD /* Preview Assets.xcassets in Resources */,
 				F23A6DCE25F0282000494ABD /* Assets.xcassets in Resources */,
 			);
